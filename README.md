@@ -21,6 +21,7 @@ Always learning, always improving, always shipping.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+
 <a href="https://github.com/Ganesan1810" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -36,19 +37,16 @@ Always learning, always improving, always shipping.
 
 ---
 
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,html,css,js,mysql" />
-</p>
+## 💻 I CODE IN
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ---
 
-## 🚀 Technologies
+## 🚀IDE and Tools I Use
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,git,github,vscode" />
-</p>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/228BE6/vercel.png" alt="vercel"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>  <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+
 
 ---
 
@@ -65,17 +63,14 @@ Always learning, always improving, always shipping.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ganesan1810E&show_icons=true&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ganesan1810&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesan1810&layout=compact&theme=github_dark)
-
----
+![](https://github-readme-stats.shion.dev/api?username=Ganesan1810&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ganesan1810&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ganesan1810&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧩 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ganesan_1008?theme=dark&font=Karma)](https://leetcode.com/u/ganesan_1008/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ganesan_1008?theme=chartreuse&font=Adamina&ext=contest)
+
 
 ---
 
@@ -86,14 +81,19 @@ Always learning, always improving, always shipping.
 ---
 
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Ganesan1810&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 ### 💡 Quote
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+ "தெய்வத்தான் ஆகா தெனினும் முயற்சிதன் மெய்வருத்தக் கூலி தரும்" 
+
+
+ 
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+                                                         
+
+
+
 
 
