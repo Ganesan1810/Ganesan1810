@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there👋,%20I'm%20Ganesan%20G&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
 
-Passionate about designing software that solves real-world problems.
+
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img align="right" alt="Lo-Fi Coding" width="380" src="https://i.pinimg.com/originals/9f/c6/33/9fc63351ec37989be50a3699c2794eb8.gif">
-
 
 Software Engineering Enthusiast | Java | Frontend Developer
 
