@@ -1,9 +1,3 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there👋,%20I'm%20Ganesan%20G&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
-
-
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="right" alt="Lo-Fi Coding" width="380" src="https://i.pinimg.com/originals/9f/c6/33/9fc63351ec37989be50a3699c2794eb8.gif"> -->
 
 <p align="center">
   <img src="header.svg" width="100%" alt="Ganesan G" />
@@ -14,6 +8,10 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Ganesan%20G%20%F0%9F%91%8B;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620 px;" alt="Typing SVG" />
   </a>
 </p>
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Lo-Fi Coding" width="380" src="https://i.pinimg.com/originals/9f/c6/33/9fc63351ec37989be50a3699c2794eb8.gif"> 
+
 
 Software Engineering Enthusiast | Java | Frontend Developer
 
