@@ -9,8 +9,8 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="right" alt="Lo-Fi Coding" width="380" src="https://i.pinimg.com/originals/9f/c6/33/9fc63351ec37989be50a3699c2794eb8.gif"> 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Lo-Fi Coding" width="350" src="https://i.pinimg.com/originals/9f/c6/33/9fc63351ec37989be50a3699c2794eb8.gif"> 
 
 
 Software Engineering Enthusiast | Java | Frontend Developer
