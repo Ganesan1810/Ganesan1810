@@ -120,18 +120,15 @@
 
   <!-- Subtitle Tagline -->
   <text x="450" y="142" text-anchor="middle" class="subtitle-text">
+    
+    <tspan fill="#64748b"> &#8226; </tspan>
     <tspan fill="#ff4d6d">INFORMATION TECHNOLOGY</tspan>
     <tspan fill="#64748b"> &#8226; </tspan>
-    <tspan fill="#f1f5f9">ASPIRING SOFTWARE ENGINEERING</tspan>
-    <tspan fill="#64748b"> &#8226; </tspan>
+    <tspan fill="#ff4d6d">ASPIRING SOFTWARE ENGINEERING</tspan>
   </text>
 
   <!-- Decorative Sleek Red Line with Diamond -->
-  <g transform="translate(0, 160)">
-    <line x1="200" y1="0" x2="420" y2="0" stroke="url(#border-grad)" stroke-width="1.5" stroke-opacity="0.8" />
-    <polygon points="450,-5 455,0 450,5 445,0" fill="#ef4444" filter="url(#glow-red)" />
-    <line x1="480" y1="0" x2="700" y2="0" stroke="url(#border-grad)" stroke-width="1.5" stroke-opacity="0.8" />
-  </g>
+
 
   <!-- Secondary Meta Tags at Bottom -->
   <g transform="translate(450, 192)">
