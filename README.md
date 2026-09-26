@@ -83,13 +83,6 @@ Always learning, always improving, always shipping.
 
 ---
 
-## 📈 GitHub Activity Graph
-
-[![Ganesan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganesan1810&theme=github-compact)](https://github.com/Ganesan1810)
----
-
-
-
 ### 💡 Quote
 
  "தெய்வத்தான் ஆகா தெனினும் முயற்சிதன் மெய்வருத்தக் கூலி தரும்" 
